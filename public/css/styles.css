@@ -6893,7 +6893,7 @@ h3 {
 }
 
 .overlay:before {
-    background: rgba(20, 23, 32, 0.8);
+    background: rgba(20, 23, 32, 0.6);
     content: '';
     display: block;
     position: absolute;
@@ -7257,9 +7257,9 @@ h3 {
 }
 
 .feature-item .icon-block {
-    background: #141a22;
+    background: #fff;
     border-radius: 100%;
-    color: #fff;
+    color: #141a22;
     font-size: 30px;
     line-height: 60px;
     position: absolute;
@@ -7267,7 +7267,11 @@ h3 {
     top: 10px;
     text-align: center;
     width: 60px;
-    height: 60px
+    height: 60px;
+    background-image: url(../img/icon/flask-light.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40%;
 }
 
 .feature-item .content {
@@ -7275,7 +7279,7 @@ h3 {
 }
 
 #facts {
-    background: #141720 url('../img/bg-facts.jpg') center top;
+    background: #141720 url('../img/bg-facts.png') center top;
     padding-bottom: 40px
 }
 
