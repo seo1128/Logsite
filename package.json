@@ -1,0 +1,12 @@
+{
+  "name": "Creatorica",
+  "version": "1.0.3",
+  "description": "Creative Landing Page",
+  "author": "MeeThemes",
+  "license": "Standart ThemeForest License",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^0.11.4",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
