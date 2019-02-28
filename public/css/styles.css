@@ -7045,9 +7045,10 @@ h3 {
 
 .home-bg2 {
     background: fixed #2b303f url('../img/bg2.png') center top;
-    background-size: cover;
+    
     background-repeat: no-repeat;
     background-size: 100%;
+    background-size: cover;
 }
 
 .home-section {
