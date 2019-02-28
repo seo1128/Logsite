@@ -8226,5 +8226,10 @@ h3 {
     font-weight: normal;
 }
 
+#prize_box{
+    width: 100%;
+    padding: 0 ;
+}
+
 
 }
