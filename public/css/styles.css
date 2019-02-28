@@ -7370,8 +7370,9 @@ h3 {
 }
 
 #facts {
-    background: #141720 url('../img/bg-facts.jpg') center top;
-    padding-bottom: 40px
+    background: black url('../img/bg-facts2.png') center top;
+    padding-bottom: 40px;
+    
 }
 
 .fact-item {
