@@ -8231,5 +8231,77 @@ h3 {
     padding: 0 ;
 }
 
+.icon_box{
+    display: block;
+    position: relative;
+    min-height: 400px;
+    
+    
+    
+
+}
+
+.education_box{
+    float: left;
+    text-align: center;
+
+    
+}
+.education_icon{
+    
+    
+    
+    background-image: url(../img/icon/pencil-ruler-solid.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    
+    width: 200px;
+    height: 200px;
+    
+    
+    
+}
+
+.mood_box{
+    float: left;
+    text-align: center;
+}
+.mood_icon{
+
+    
+   
+    
+    background-image: url(../img/icon/moon-stars-solid.svg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    width: 30%;
+    width: 200px;
+    height: 200px;
+
+}
+.grow_box{
+    float: left;
+    text-align: center;
+}
+
+.grow_icon{
+
+    
+    
+    
+    background-image: url(../img/icon/hand-holding-seedling-solid.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    width: 30%;
+    width: 200px;
+    height: 200px;
+    
+
+
+}
+
 
 }
