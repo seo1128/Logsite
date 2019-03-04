@@ -1,6 +1,5 @@
 var ie = ie_version();
 
-
 // Parameters
 var p = {
 	navbarScrollTop: $(window).height() / 4, // When add background to navbar
